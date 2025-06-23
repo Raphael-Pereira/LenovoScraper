@@ -1,0 +1,33 @@
+Serial Number: PF46ZJD4
+Status: T14 Gen 3 (Type 21CF, 21CG) Laptop (ThinkPad) - Type 21CG
+Warranty: < 12 months remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x AMD Ryzen™ 7 PRO 6850U Processor(Ryzen™ 7 PRO 6850U)
+Memory
+1x 32GBLPDDR5-6400
+Operating System
+Windows 11 Pro 64 (preinstallato con downgrade a Windows 10 Pro 64)(BR:Brazilian Portuguese)
+Hard Drive
+1x 256 GB SSD PCIe
+Wired Network
+1x
+Wireless Network
+1x Bluetooth® 5.1 or above; Qualcomm Wi-Fi 6E NFA725A 2x2 AX
+Ports
+1x Headphone & Microphone combo Jack; 2 USB 3.2 Gen 2 (Type A); 2 x USB 4.0 Type-C with PD & DP (Thunderbolt); 1 x RJ45; 1 x HDMI 2.0b; Kensington lock
+Camera
+1x 1080P FHD IR/RGB Hybrid with Dual Array Microphone and Privacy Shutter
+Graphics
+1x AMD Radeon™ 680M
+Monitor
+14" WUXGA
+Form Factor
+Ultraslim Notebook
+Included Warranty
+3 Year On-site
+End of Service
+2028-12-02
+----------------

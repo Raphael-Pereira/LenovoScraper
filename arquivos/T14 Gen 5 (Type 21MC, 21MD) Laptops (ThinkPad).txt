@@ -1,0 +1,33 @@
+Serial Number: PF57KSSW
+Status: T14 Gen 5 (Type 21MC, 21MD) Laptops (ThinkPad) - Type 21MD
+Warranty: < 30 months remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x AMD Ryzen™ 7 PRO 8840U Processor(Ryzen™ 7 PRO 8840U)
+Memory
+2x 16 GB DDR5-5600
+Operating System
+Windows 11 Pro(BR:Brazilian Portuguese)
+Hard Drive
+1x 512GB G4 Perf
+Wired Network
+1x
+Wireless Network
+1x Bluetooth® 5.1 (Windows 10) or Bluetooth® 5.3 (Windows 11); Qualcomm Wi-Fi 6E NFA725A 2x2 AX
+Ports
+1x 1 USB 3.2 Gen1; HDMI 2.1; 1 x USB3.2 Gen 1(Always on USB 5V2A); 1 x RJ45; Kensington lock; Headphone & Microphone combo Jack; 2 x USB-C (USB 4.0 Gen 3x2)
+Camera
+1x 5MP RGB+IR with Privacy Shutter and Dual Microphone
+Graphics
+1x AMD Radeon™ 780M
+Monitor
+14" WUXGA
+Form Factor
+Ultraslim Notebook
+Included Warranty
+3 Year On-site
+End of Service
+2030-12-13
+----------------

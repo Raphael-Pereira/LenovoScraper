@@ -1,0 +1,27 @@
+Serial Number: PE033RAF
+Status: X270 (Type 20HN, 20HM) Laptop (ThinkPad) - Type 20HM
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x ()
+Memory
+1x
+Operating System
+()
+Hard Drive
+1x
+Wireless Network
+1x
+Ports
+1x
+Camera
+1x
+Graphics
+1x
+Included Warranty
+3 Year On-site
+End of Service
+2023-09-06
+----------------

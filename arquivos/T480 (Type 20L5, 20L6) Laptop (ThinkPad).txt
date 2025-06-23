@@ -1,0 +1,29 @@
+Serial Number: PE03WPTZ
+Status: T480 (Type 20L5, 20L6) Laptop (ThinkPad) - Type 20L6
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x 8th Generation Intel® Core™ i5-8350U Processor(Core i5-8350U)
+Memory
+2x 8GBDDR42400
+Operating System
+Windows 10 Pro 64(BR:Brazilian Portuguese)
+Hard Drive
+1x 256PCIeNVMeOPAL
+Wireless Network
+1x Intel® Wireless-AC 8265 2x2 AC; Bluetooth® 4.1
+Ports
+1x 2 USB 3.1(Type A); 1 USB 3.1(Type C); RJ-45; Media Card Reader; Headphone & Microphone combo Jack
+Camera
+1x 720P HD IR/RBG Hybrid with Array Microphone
+Graphics
+1x Intel UHD 620
+Monitor
+14.0 1366x768
+Included Warranty
+3 Year On-site
+End of Service
+2024-09-05
+----------------

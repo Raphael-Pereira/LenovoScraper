@@ -1,0 +1,34 @@
+Serial Number: PE083WBE
+Status: T14 Gen 2 (Type 20W0, 20W1) Laptop (ThinkPad) - Type 20W1
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x 11th Generation Intel® Core™ i7-1185G7 vPro® Processor(Core™ i7-1185G7 vPro®)
+Memory
+1x 16GB DDR4 3200
+Operating System
+Windows 10 Pro 64(BR:Brazilian Portuguese)
+Hard Drive
+1x 256GBPCIeOPAL2
+Wireless Network
+1x Intel® Wi-Fi 6 AX201 2x2 AX; Bluetooth® 5.1 or above
+Ports
+1x Combo audio/microphone jack; HDMI 2.0; 2x TBT4 (DP 1.4a
+USB 3.2
+CIO
+PD); 2 USB 3.2 Gen 1 (Type A); 1x Mechanical Docking Connector; Kensington lock; Micro SD Card Reader; Ethernet
+Camera
+1x 720P HD with Dual Array Microphone & ThinkShutter
+Graphics
+1x Intel UHD Graphics
+Monitor
+14.0 FHD
+Form Factor
+Notebook
+Included Warranty
+3YR Premier NBD
+End of Service
+2027-09-22
+----------------

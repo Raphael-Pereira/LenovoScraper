@@ -1,0 +1,33 @@
+Serial Number: PF3PLR2Q
+Status: T14 Gen 2 (Type 20XK, 20XL) Laptop (ThinkPad) - Type 20XL
+Warranty: < 4 months remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x AMD Ryzen™ 7 PRO 5850U Processor(Ryzen™ 7 PRO 5850U)
+Memory
+1x 16GB DDR4 3200
+1x 8GB DDR4 3200
+Operating System
+Windows 11 Pro 64 (preinstallato con downgrade a Windows 10 Pro 64)(EN:English)
+Hard Drive
+1x 256 GB SSD PCIe
+Wireless Network
+1x Qualcomm Wi-Fi 6 NFA765 2x2 AX; Bluetooth® 5.1 or above
+Ports
+1x 2x USB-A 3.2 Gen 1; 1x Mechanical Docking Connector; 2x TBT4 (DP 1.4a
+USB 3.2
+CIO
+PD); Micro SD Card Reader; 1 RFID Reader; Kensington Microsaver Lock; Combo audio/microphone jack; RJ-45; 1 x HDMI 2.0b
+Camera
+1x 720P HD IR/RGB Hybrid with Array Microphone and Privacy Shutter
+Graphics
+1x AMD Radeon™ Graphics
+Monitor
+14.0 FHD45%NTSC
+Included Warranty
+3 Year On-site
+End of Service
+2027-10-22
+----------------

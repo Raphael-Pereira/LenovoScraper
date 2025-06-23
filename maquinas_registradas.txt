@@ -1,0 +1,524 @@
+Serial Number: GM0VFYYQ
+Status: M70q Gen 5 Desktop (ThinkCentre) - Type 12TE
+Warranty: < 34 meses restantes
+Especificações:
+Informações sobre especificações
+As informações contidas neste site são apenas para referência e sua finalidade exclusiva é facilitar a prestação de serviços de garantia de fábrica para os produtos Lenovo. Essas informações podem ser alteradas a qualquer momento sem aviso prévio.
+Processador
+1x 14th Generation Intel® Core™ i5-14500T vPro® Processor(Core™ i5-14500T vPro®)
+Memória
+2x 16 GB DDR5-5600
+Sistema Operacional
+Windows 11 Pro(BR:Brazilian Portuguese)
+Hard Drive
+1x 512GB G4 Perf
+Rede sem fio
+1x Intel® Wi-Fi 6E AX211 2x2 AX vPro®; Bluetooth® 5.1 or above
+Gráficos
+1x Intel® UHD Graphics 770
+Form Factor
+Tiny
+Garantia inclusa
+3 Year On-site
+Fim de serviço
+2031-01-17
+----------------
+Serial Number: PE02HDCS
+Status: M900 Desktop (ThinkCentre) - Type 10ND
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x Intel Core i5-6600T Processor(Core i5-6600T)
+Memory
+2x 8GB DDR4-2133
+Operating System
+Windows 10 Pro 64(BR:Brazilian Portuguese)
+Hard Drive
+1x 256GBOPAL2.0
+Optical Drive
+1x
+Included Warranty
+3 Year On-site
+End of Service
+2022-06-09
+----------------
+Serial Number: MJ07LC5R
+Status: M910q Desktop (ThinkCentre) - Type ThinkCentre M910q (type 10MU) Tiny Form Factor
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x Intel Core i5-7500T Processor(Core i5-7500T)
+Memory
+1x 16GBDDR42400
+Operating System
+Windows 10 Pro 64(BR:Brazilian Portuguese)
+Hard Drive
+1x 256GB NVMe
+Graphics
+1x Integrated Graphics
+Included Warranty
+3 Year On-site
+End of Service
+2023-09-20
+----------------
+Serial Number: MJ07LC5T
+Status: M910q Desktop (ThinkCentre) - Type ThinkCentre M910q (type 10MU) Tiny Form Factor
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x Intel Core i5-7500T Processor(Core i5-7500T)
+Memory
+1x 16GBDDR42400
+Operating System
+Windows 10 Pro 64(BR:Brazilian Portuguese)
+Hard Drive
+1x 256GB NVMe
+Graphics
+1x Integrated Graphics
+Included Warranty
+3 Year On-site
+End of Service
+2023-09-20
+----------------
+Serial Number: PE06MJJ8
+Status: T14 Gen 1 (type 20S0, 20S1) Laptop (ThinkPad) - Type 20S1
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x 10th Generation Intel® Core™ i7-10610U vPro® Processor(Core i7-10610U vPro)
+Memory
+1x 8 GB DDR4-3200
+1x 16GB DRR4 3200
+Operating System
+Windows 10 Pro 64(BR:Brazilian Portuguese)
+Hard Drive
+1x 256GB PCIe TLC
+Wireless Network
+1x Intel® Wi-Fi 6 AX201 2x2 AX vPro®; Bluetooth® 5.1 or above
+Ports
+1x 1x Mech Docking Port (CS18) (side docking); 1 Type C (USB 3.2 Gen 2 + DP 1.2 + PD 3.0); 1 Type C (USB 3.2 Gen 2 + DP 1.2 + PD 3.0 + Thunderbolt); 2 USB 3.2 Gen 2 (Type A); Headphone & Microphone combo Jack; Ethernet; HDMI 1.4b
+Camera
+1x 720P HD IR/RGB Hybrid with Array Microphone and ThinkShutter
+Graphics
+1x Intel UHD Graphics
+Monitor
+14.0 FHD 45%CG
+Included Warranty
+3 Year On-site
+End of Service
+2026-12-04
+----------------
+Serial Number: PE083WBE
+Status: T14 Gen 2 (Type 20W0, 20W1) Laptop (ThinkPad) - Type 20W1
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x 11th Generation Intel® Core™ i7-1185G7 vPro® Processor(Core™ i7-1185G7 vPro®)
+Memory
+1x 16GB DDR4 3200
+Operating System
+Windows 10 Pro 64(BR:Brazilian Portuguese)
+Hard Drive
+1x 256GBPCIeOPAL2
+Wireless Network
+1x Intel® Wi-Fi 6 AX201 2x2 AX; Bluetooth® 5.1 or above
+Ports
+1x Combo audio/microphone jack; HDMI 2.0; 2x TBT4 (DP 1.4a
+USB 3.2
+CIO
+PD); 2 USB 3.2 Gen 1 (Type A); 1x Mechanical Docking Connector; Kensington lock; Micro SD Card Reader; Ethernet
+Camera
+1x 720P HD with Dual Array Microphone & ThinkShutter
+Graphics
+1x Intel UHD Graphics
+Monitor
+14.0 FHD
+Form Factor
+Notebook
+Included Warranty
+3YR Premier NBD
+End of Service
+2027-09-22
+----------------
+Serial Number: PF3PLR2Q
+Status: T14 Gen 2 (Type 20XK, 20XL) Laptop (ThinkPad) - Type 20XL
+Warranty: < 4 months remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x AMD Ryzen™ 7 PRO 5850U Processor(Ryzen™ 7 PRO 5850U)
+Memory
+1x 16GB DDR4 3200
+1x 8GB DDR4 3200
+Operating System
+Windows 11 Pro 64 (preinstallato con downgrade a Windows 10 Pro 64)(EN:English)
+Hard Drive
+1x 256 GB SSD PCIe
+Wireless Network
+1x Qualcomm Wi-Fi 6 NFA765 2x2 AX; Bluetooth® 5.1 or above
+Ports
+1x 2x USB-A 3.2 Gen 1; 1x Mechanical Docking Connector; 2x TBT4 (DP 1.4a
+USB 3.2
+CIO
+PD); Micro SD Card Reader; 1 RFID Reader; Kensington Microsaver Lock; Combo audio/microphone jack; RJ-45; 1 x HDMI 2.0b
+Camera
+1x 720P HD IR/RGB Hybrid with Array Microphone and Privacy Shutter
+Graphics
+1x AMD Radeon™ Graphics
+Monitor
+14.0 FHD45%NTSC
+Included Warranty
+3 Year On-site
+End of Service
+2027-10-22
+----------------
+Serial Number: PF46ZJD4
+Status: T14 Gen 3 (Type 21CF, 21CG) Laptop (ThinkPad) - Type 21CG
+Warranty: < 12 months remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x AMD Ryzen™ 7 PRO 6850U Processor(Ryzen™ 7 PRO 6850U)
+Memory
+1x 32GBLPDDR5-6400
+Operating System
+Windows 11 Pro 64 (preinstallato con downgrade a Windows 10 Pro 64)(BR:Brazilian Portuguese)
+Hard Drive
+1x 256 GB SSD PCIe
+Wired Network
+1x
+Wireless Network
+1x Bluetooth® 5.1 or above; Qualcomm Wi-Fi 6E NFA725A 2x2 AX
+Ports
+1x Headphone & Microphone combo Jack; 2 USB 3.2 Gen 2 (Type A); 2 x USB 4.0 Type-C with PD & DP (Thunderbolt); 1 x RJ45; 1 x HDMI 2.0b; Kensington lock
+Camera
+1x 1080P FHD IR/RGB Hybrid with Dual Array Microphone and Privacy Shutter
+Graphics
+1x AMD Radeon™ 680M
+Monitor
+14" WUXGA
+Form Factor
+Ultraslim Notebook
+Included Warranty
+3 Year On-site
+End of Service
+2028-12-02
+----------------
+Serial Number: PF4QXW0F
+Status: T14 Gen 4 (Type 21K3, 21K4) Laptop (ThinkPad) - Type 21K4
+Warranty: < 22 months remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x AMD Ryzen™ 7 PRO 7840U Processor(Ryzen™ 7 PRO 7840U)
+Memory
+1x 32GB LPD5X-6400
+Operating System
+Windows 11 Pro 64 (preinstallato con downgrade a Windows 10 Pro 64)(BR:Brazilian Portuguese)
+Hard Drive
+1x 512GB G4 Perf
+Wired Network
+1x
+Wireless Network
+1x Qualcomm Wi-Fi 6E NFA725A 2x2 AX; Bluetooth® 5.1 (Windows 10) or Bluetooth® 5.3 (Windows 11)
+Ports
+1x Kensington lock; Headphone & Microphone combo Jack; 1 x USB 4.0; 1 x USB-C 3.2 Gen 2; 2x USB-A 3.2 Gen 1; 1 x HDMI 2.0b; 1 x RJ45
+Camera
+1x 5MP IR+RGB with Privacy Shutter and Integrated Microphone
+Graphics
+1x AMD Radeon™ 780M
+Monitor
+14" WUXGA
+Form Factor
+Ultraslim Notebook
+Included Warranty
+3 Year On-site
+End of Service
+2030-02-10
+----------------
+Serial Number: PF57KSSW
+Status: T14 Gen 5 (Type 21MC, 21MD) Laptops (ThinkPad) - Type 21MD
+Warranty: < 30 months remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x AMD Ryzen™ 7 PRO 8840U Processor(Ryzen™ 7 PRO 8840U)
+Memory
+2x 16 GB DDR5-5600
+Operating System
+Windows 11 Pro(BR:Brazilian Portuguese)
+Hard Drive
+1x 512GB G4 Perf
+Wired Network
+1x
+Wireless Network
+1x Bluetooth® 5.1 (Windows 10) or Bluetooth® 5.3 (Windows 11); Qualcomm Wi-Fi 6E NFA725A 2x2 AX
+Ports
+1x 1 USB 3.2 Gen1; HDMI 2.1; 1 x USB3.2 Gen 1(Always on USB 5V2A); 1 x RJ45; Kensington lock; Headphone & Microphone combo Jack; 2 x USB-C (USB 4.0 Gen 3x2)
+Camera
+1x 5MP RGB+IR with Privacy Shutter and Dual Microphone
+Graphics
+1x AMD Radeon™ 780M
+Monitor
+14" WUXGA
+Form Factor
+Ultraslim Notebook
+Included Warranty
+3 Year On-site
+End of Service
+2030-12-13
+----------------
+Serial Number: PE02G0PM
+Status: T460 Laptop (ThinkPad) - Type 20FM
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x 6th Generation Intel® Core™ i7-6500U Processor(Core i7-6500U)
+Memory
+1x 8GB PC3-12800
+Operating System
+Windows 10 Pro 64(EN:English)
+Hard Drive
+1x 500GB 7200
+Wireless Network
+1x Intel® Wireless-AC 8260 2x2 AC & Bluetooth® 4.1
+Ports
+1x 4-in-1 Media Card Reader (SD
+MMC
+SDHC
+SDXC); 3 USB 3.0; HDMI 1.4; DC in; Microphone/Headphone Jacks; Mini DP; RJ-45; CS13 Docking
+Camera
+1x 720P HD
+Graphics
+1x NVIDIA GeForce 940MX 2GB
+Monitor
+14.0 FHD
+Included Warranty
+3 Year On-site
+End of Service
+2022-08-25
+----------------
+Serial Number: PE0347FR
+Status: T470 (Type 20HD, 20HE) Laptop (ThinkPad) - Type 20HE
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x 7th Generation Intel® Core™ i7-7600U Processor(Core i7-7600U)
+Memory
+1x 8GB DDR4-2133
+Operating System
+Windows 10 Pro 64(BR:Brazilian Portuguese)
+Hard Drive
+1x 500GB SATA HDD
+Wireless Network
+1x Intel® Wireless-AC 8265 2x2 AC; Bluetooth® 4.1
+Ports
+1x RJ-45; Microphone/Headphone Jacks; CS13 Docking; 1 USB Type C; 3 TypeA USB3.1 Gen1; Media Card Reader (SD 3.0
+UHS-I); Micro SIM; HDMI; 2 M.2 (WLAN/WWAN)
+Camera
+1x 720P HD with Array Microphone
+Graphics
+1x Intel HD 620
+Monitor
+14.0 1366x768
+Included Warranty
+3 Year On-site
+End of Service
+2023-08-27
+----------------
+Serial Number: PE03WPTZ
+Status: T480 (Type 20L5, 20L6) Laptop (ThinkPad) - Type 20L6
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x 8th Generation Intel® Core™ i5-8350U Processor(Core i5-8350U)
+Memory
+2x 8GBDDR42400
+Operating System
+Windows 10 Pro 64(BR:Brazilian Portuguese)
+Hard Drive
+1x 256PCIeNVMeOPAL
+Wireless Network
+1x Intel® Wireless-AC 8265 2x2 AC; Bluetooth® 4.1
+Ports
+1x 2 USB 3.1(Type A); 1 USB 3.1(Type C); RJ-45; Media Card Reader; Headphone & Microphone combo Jack
+Camera
+1x 720P HD IR/RBG Hybrid with Array Microphone
+Graphics
+1x Intel UHD 620
+Monitor
+14.0 1366x768
+Included Warranty
+3 Year On-site
+End of Service
+2024-09-05
+----------------
+Serial Number: PE05SCF1
+Status: T490 (Type 20N2, 20N3) Laptop (ThinkPad) - Type 20N3
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x Intel Core i5-8365U Processor(Core i5-8365U)
+Memory
+1x 16GB DDR4 2400
+Operating System
+Windows 10 Pro 64(BR:Brazilian Portuguese)
+Hard Drive
+1x 256PCIeNVMeOPAL
+Wireless Network
+1x Intel Wireless-AC 9560 2x2ac with BT5.0
+Ports
+1x WWAN SIM
+Camera
+1x RGB 720p HD Camera & MIC
+with ThinkShutter
+Graphics
+1x Intel UHD 620
+Monitor
+14.0 FHD LED
+Included Warranty
+3 Year On-site
+End of Service
+2025-10-14
+----------------
+Serial Number: PE020P2Y
+Status: X250 Laptop (ThinkPad) - Type 20CL
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x Intel Core i5-8365U Processor(Core i5-8365U)
+Memory
+1x 16GB DDR4 2400
+Operating System
+Windows 10 Pro 64(BR:Brazilian Portuguese)
+Hard Drive
+1x 256PCIeNVMeOPAL
+Wireless Network
+1x Intel Wireless-AC 9560 2x2ac with BT5.0
+Ports
+1x WWAN SIM
+Camera
+1x RGB 720p HD Camera & MIC
+with ThinkShutter
+Graphics
+1x Intel UHD 620
+Monitor
+14.0 FHD LED
+Included Warranty
+3 Year On-site
+End of Service
+2025-10-14
+----------------
+Serial Number: PE033RAF
+Status: X270 (Type 20HN, 20HM) Laptop (ThinkPad) - Type 20HM
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x ()
+Memory
+1x
+Operating System
+()
+Hard Drive
+1x
+Wireless Network
+1x
+Ports
+1x
+Camera
+1x
+Graphics
+1x
+Included Warranty
+3 Year On-site
+End of Service
+2023-09-06
+----------------
+Serial Number: MP1GVYCF
+Status: X380 Yoga (Type 20LH, 20LJ) Laptop (ThinkPad) - Type 20LH
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x 8th Generation Intel Core™ i5-8250U Processor(Core i5-8250U)
+Memory
+1x 8GB DDR4 2400
+Operating System
+Windows 10 Pro 64(EN:English)
+Hard Drive
+1x 256PCIeNVMeOPAL
+Wireless Network
+1x Intel® Wireless-AC 8265 2x2 AC; Bluetooth® 4.1
+Ports
+1x 4-in-1 Media Card Reader (SD
+MMC
+SDHC
+SDXC); Microphone/Headphone Jacks; 1 USB Type C; Micro SIM; DC in; Mini RJ45; 1 Always On USB 3.0; 1 USB 3.0
+Camera
+1x 720P MIC ARRAY HD Camera
+Graphics
+1x Intel UHD 620
+Monitor
+13.3 FHD LED
+Included Warranty
+3CourierCarryin
+End of Service
+2024-09-05
+----------------
+Serial Number: MP1CA0SB
+Status: Yoga 370 Laptop (ThinkPad) - Type 20JJ
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x 7th Generation Intel® Core™ i5-7200U Processor(Core i5-7200U)
+Memory
+1x 8GB DDR4-2133
+Operating System
+Windows 10 Pro 64(BR:Brazilian Portuguese)
+Hard Drive
+1x 256PCIeNVMeOPAL
+Wireless Network
+1x Intel® Wireless-AC 8265 2x2 AC; Bluetooth® 4.1
+Ports
+1x DC in; RJ-45; 1 Powered USB 3.0; 1 USB 3.1(Type C); Microphone/Headphone Jacks; 4-in-1 Media Card Reader (SD
+MMC
+SDHC
+SDXC); 1 USB 3.0
+Graphics
+1x Intel HD 620
+Monitor
+13.3 FHD LED
+Included Warranty
+3 Year On-site
+End of Service
+2023-10-06
+----------------

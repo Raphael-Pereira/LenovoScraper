@@ -1,0 +1,32 @@
+Serial Number: MP1GVYCF
+Status: X380 Yoga (Type 20LH, 20LJ) Laptop (ThinkPad) - Type 20LH
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x 8th Generation Intel Core™ i5-8250U Processor(Core i5-8250U)
+Memory
+1x 8GB DDR4 2400
+Operating System
+Windows 10 Pro 64(EN:English)
+Hard Drive
+1x 256PCIeNVMeOPAL
+Wireless Network
+1x Intel® Wireless-AC 8265 2x2 AC; Bluetooth® 4.1
+Ports
+1x 4-in-1 Media Card Reader (SD
+MMC
+SDHC
+SDXC); Microphone/Headphone Jacks; 1 USB Type C; Micro SIM; DC in; Mini RJ45; 1 Always On USB 3.0; 1 USB 3.0
+Camera
+1x 720P MIC ARRAY HD Camera
+Graphics
+1x Intel UHD 620
+Monitor
+13.3 FHD LED
+Included Warranty
+3CourierCarryin
+End of Service
+2024-09-05
+----------------

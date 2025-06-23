@@ -1,0 +1,33 @@
+Serial Number: PF4QXW0F
+Status: T14 Gen 4 (Type 21K3, 21K4) Laptop (ThinkPad) - Type 21K4
+Warranty: < 22 months remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x AMD Ryzen™ 7 PRO 7840U Processor(Ryzen™ 7 PRO 7840U)
+Memory
+1x 32GB LPD5X-6400
+Operating System
+Windows 11 Pro 64 (preinstallato con downgrade a Windows 10 Pro 64)(BR:Brazilian Portuguese)
+Hard Drive
+1x 512GB G4 Perf
+Wired Network
+1x
+Wireless Network
+1x Qualcomm Wi-Fi 6E NFA725A 2x2 AX; Bluetooth® 5.1 (Windows 10) or Bluetooth® 5.3 (Windows 11)
+Ports
+1x Kensington lock; Headphone & Microphone combo Jack; 1 x USB 4.0; 1 x USB-C 3.2 Gen 2; 2x USB-A 3.2 Gen 1; 1 x HDMI 2.0b; 1 x RJ45
+Camera
+1x 5MP IR+RGB with Privacy Shutter and Integrated Microphone
+Graphics
+1x AMD Radeon™ 780M
+Monitor
+14" WUXGA
+Form Factor
+Ultraslim Notebook
+Included Warranty
+3 Year On-site
+End of Service
+2030-02-10
+----------------

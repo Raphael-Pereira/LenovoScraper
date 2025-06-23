@@ -1,0 +1,32 @@
+Serial Number: PE02G0PM
+Status: T460 Laptop (ThinkPad) - Type 20FM
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x 6th Generation Intel® Core™ i7-6500U Processor(Core i7-6500U)
+Memory
+1x 8GB PC3-12800
+Operating System
+Windows 10 Pro 64(EN:English)
+Hard Drive
+1x 500GB 7200
+Wireless Network
+1x Intel® Wireless-AC 8260 2x2 AC & Bluetooth® 4.1
+Ports
+1x 4-in-1 Media Card Reader (SD
+MMC
+SDHC
+SDXC); 3 USB 3.0; HDMI 1.4; DC in; Microphone/Headphone Jacks; Mini DP; RJ-45; CS13 Docking
+Camera
+1x 720P HD
+Graphics
+1x NVIDIA GeForce 940MX 2GB
+Monitor
+14.0 FHD
+Included Warranty
+3 Year On-site
+End of Service
+2022-08-25
+----------------

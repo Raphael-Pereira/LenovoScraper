@@ -1,0 +1,25 @@
+Serial Number: GM0VFYYQ
+Status: M70q Gen 5 Desktop (ThinkCentre) - Type 12TE
+Warranty: < 34 meses restantes
+Especificações:
+Informações sobre especificações
+As informações contidas neste site são apenas para referência e sua finalidade exclusiva é facilitar a prestação de serviços de garantia de fábrica para os produtos Lenovo. Essas informações podem ser alteradas a qualquer momento sem aviso prévio.
+Processador
+1x 14th Generation Intel® Core™ i5-14500T vPro® Processor(Core™ i5-14500T vPro®)
+Memória
+2x 16 GB DDR5-5600
+Sistema Operacional
+Windows 11 Pro(BR:Brazilian Portuguese)
+Hard Drive
+1x 512GB G4 Perf
+Rede sem fio
+1x Intel® Wi-Fi 6E AX211 2x2 AX vPro®; Bluetooth® 5.1 or above
+Gráficos
+1x Intel® UHD Graphics 770
+Form Factor
+Tiny
+Garantia inclusa
+3 Year On-site
+Fim de serviço
+2031-01-17
+----------------

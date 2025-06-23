@@ -1,0 +1,21 @@
+Serial Number: PE02HDCS
+Status: M900 Desktop (ThinkCentre) - Type 10ND
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x Intel Core i5-6600T Processor(Core i5-6600T)
+Memory
+2x 8GB DDR4-2133
+Operating System
+Windows 10 Pro 64(BR:Brazilian Portuguese)
+Hard Drive
+1x 256GBOPAL2.0
+Optical Drive
+1x
+Included Warranty
+3 Year On-site
+End of Service
+2022-06-09
+----------------

@@ -1,0 +1,30 @@
+Serial Number: PE0347FR
+Status: T470 (Type 20HD, 20HE) Laptop (ThinkPad) - Type 20HE
+Warranty: 0 Days remaining
+Especificações:
+Spec Info
+The information contained on this website is for reference only, and its exclusive purpose is to facilitate the service delivery of the factory warranty services for Lenovo products. This information may change at any time without notice.
+Processor
+1x 7th Generation Intel® Core™ i7-7600U Processor(Core i7-7600U)
+Memory
+1x 8GB DDR4-2133
+Operating System
+Windows 10 Pro 64(BR:Brazilian Portuguese)
+Hard Drive
+1x 500GB SATA HDD
+Wireless Network
+1x Intel® Wireless-AC 8265 2x2 AC; Bluetooth® 4.1
+Ports
+1x RJ-45; Microphone/Headphone Jacks; CS13 Docking; 1 USB Type C; 3 TypeA USB3.1 Gen1; Media Card Reader (SD 3.0
+UHS-I); Micro SIM; HDMI; 2 M.2 (WLAN/WWAN)
+Camera
+1x 720P HD with Array Microphone
+Graphics
+1x Intel HD 620
+Monitor
+14.0 1366x768
+Included Warranty
+3 Year On-site
+End of Service
+2023-08-27
+----------------
